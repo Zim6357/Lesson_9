@@ -1,0 +1,207 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic&display=swap&subset=cyrillic-ext");
+
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+html,
+body {
+	height: 100%;
+}
+html {
+	font-size: 16px;
+}
+body {
+    font-family: "Roboto", sans-serif;
+	line-height: 1;
+}
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	margin: 30px 50px;
+	border: 2px solid #4B4B4B;
+	border-radius: 20px;
+}
+.sed {
+	padding: 120px 217px;
+	background: url("../img/Blob.png") 0.0/cover no-repeat;
+}
+.sed h1 {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 24px;
+	padding: 3px 0px 0px 35px;
+	color: #5D62B5;
+	background: url("../img/Oliver.png") left 0/auto no-repeat;
+}
+.sed h2 {
+	font-weight: 900;
+	font-size: 36px;
+	line-height: 42px;
+	color: #000000;
+	margin: 50px 0px 0px 0px;
+
+}
+.block-content {
+	margin: 77px 0px 0px 0px;
+}
+.block {
+	padding: 24px 0px 0px 0px;
+	
+}
+.block-item {
+	max-width: 324px;
+	display: inline-block;
+	vertical-align: top;
+	background: #FFFFFF;
+	border: 1px solid #999595;
+	border-radius: 20px;
+	padding: 49px 43px;
+	margin: 0px 24px 0px 0px;
+}
+.block-item:hover {
+	box-shadow: 10px 10px 10px #999595;
+}
+.block-img {
+	padding: 0px 86px 0px 88px;                   
+}
+.block-item h3 {
+	font-weight: 900;
+	font-size: 19px;
+	line-height: 26px;
+	text-align: center;
+	color: #F2726F;
+	margin: 30px 0px 0px 0px;
+}
+.block-item p {
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 24px;
+	text-align: center;
+	color: #4B4B4B;
+	margin: 20px 0px 0px 0px;
+}
+.button {
+	display: block;
+	max-width: 150px;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 24px;
+	letter-spacing: 0.15px;
+	text-transform: uppercase;
+	text-align: center;
+	color: #FFFFFF;
+	padding: 20px 10px;
+	background-color: #F2726F;
+	border: 2px solid #580806;
+	border-radius: 20px;
+	margin: 65px 647px;
+}
+.button:visited {
+	background-color: #df4a48;
+}
+
+.button:hover {
+	background-color: #c23330;
+	box-shadow: 5px 5px 10px #a51e1c;
+}
+.button:focus {
+	background-color: #a51e1c;
+}
+.button:active {
+	background-color: #580806;
+	box-shadow: 5px 5px 10px #440a09e8;
+}
+.promise-card {
+	
+	padding: 10px 20px;
+	border-top: 2px solid #999595;
+	
+}
+.promise {
+	margin: 106px 200px;
+}
+.promise h2 {
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 24px;
+	color: #5D62B5;
+	background: url("../img/Oliver.png") 0 0/auto no-repeat;
+	padding: 3px 0px 0px 30px;
+}
+.promise h1 {
+	font-weight: 900;
+	font-size: 36px;
+	line-height: 42px;
+	color: #000000;
+}
+.card {
+	margin: 77px 0px 0px 0px; 
+}
+
+.card-block {
+	display: inline-block;
+	vertical-align: top;
+	max-width: 324px;
+	padding-right: 25px;
+}
+.card-img {
+	display: inline-block;
+	vertical-align: top;
+}
+.card-body {
+	display: inline-block;
+	vertical-align: top;
+	max-width: 65%;
+}
+.card-body h3 {
+	font-weight: 900;
+	font-size: 19px;
+	line-height: 26px;
+	color: #F2726F;
+}
+.card-body p {
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 24px;
+	color: #4B4B4B;
+	margin: 20px 0px 0px 0px;
+}
+
+
+
+
+
+
+
+
+
+
